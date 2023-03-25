@@ -66,4 +66,5 @@ public class Animal {
 	 * ・体長：〇.〇m
 	 * ・速度：○○km
 	 * */
+//	まーきの
 }
