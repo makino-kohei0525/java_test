@@ -67,4 +67,5 @@ public class Animal {
 	 * ・速度：○○km
 	 * */
 //	まーきの
+// どらえもん
 }
